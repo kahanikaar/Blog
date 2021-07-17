@@ -9,10 +9,10 @@ In my second blog in GSoC with the CERN-HSF series, here I present my experience
 
 
 ## Table of Contents
-1. [Interacting with the community](#1-interacting-with-the-community)
-2. [About my project](#2-about-my-project)
-3. [Setting up the Development Environment](#3-setting-up-the-development-environment)
-4. [Conclusion](#4-conclusion)
+[1. Interacting with the community](#1-interacting-with-the-community)  
+[2. About my project](#2-about-my-project)  
+[3. Setting up the Development Environment](#3-setting-up-the-development-environment)  
+[4. Conclusion](#4-conclusion)  
 
 ## 1. Interacting with the community
 The first meeting with my mentors was scheduled for the 21st of May, 2021. Me as well as my fellow student developers were integrated with the TMVA Team of ROOT Project, and were directed to sign-up for a CERN Lightweight Account to join the TMVA Channel in Mattermost. CERN uses [Mattermost](https://mattermost.com/)  as their instant messaging tool for communications. *Mattermost is an open-source, self-hostable online chat service designed as an internal chat for organizations, similar to Slack.*  The TMVA Team met every Friday to discuss work progress and planned deliverables for the following week. In the first meeting, I met with my mentors for the project along with other GSoC'21 Student Developers and CERN Summer Student Developers working for the TMVA Team of ROOT.
