@@ -1,4 +1,4 @@
-## Root Project: Keras Parser for SOFIE
+## Root-Project: Keras Parser for SOFIE
 
 SOFIE was ideated as an inference engine that will be very fast in generating easy-to-use inference code and will have very few dependencies in predicting from a trained machine learning model in any production environment. SOFIE follows the ONNX standards for storing model configuration thus containing the initialized tensors, intermediate tensors, input & output tensors, and the Operators, operating on the tensors to return the required prediction. 
 
