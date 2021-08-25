@@ -1,2 +1,2 @@
-### Sanjiban Sengupta's Blog
-Hosted on sanjiban.hashnode.com
+### Sanjiban's Blog
+Hosted on blog.sanjiban.ml
